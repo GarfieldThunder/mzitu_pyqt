@@ -27,9 +27,9 @@
    <widget class="QPushButton" name="pushButton">
     <property name="geometry">
      <rect>
-      <x>820</x>
+      <x>910</x>
       <y>590</y>
-      <width>161</width>
+      <width>91</width>
       <height>41</height>
      </rect>
     </property>
@@ -70,6 +70,32 @@
     </property>
     <property name="text">
      <string/>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_nextpage">
+    <property name="geometry">
+     <rect>
+      <x>750</x>
+      <y>590</y>
+      <width>91</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Next Page</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_uppage">
+    <property name="geometry">
+     <rect>
+      <x>650</x>
+      <y>590</y>
+      <width>91</width>
+      <height>41</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Up Page</string>
     </property>
    </widget>
   </widget>
